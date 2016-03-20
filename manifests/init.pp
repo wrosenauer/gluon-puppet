@@ -1,6 +1,6 @@
 # Definition: gluon
 #
-# This class prepares the node for installation of one (ore more) Mesh VPN servers
+# This class prepares the node for installation of one (or more) Mesh VPN servers
 #
 # You usually don't need to declare/include this class directly,
 # just declare gluon::mesh_vpn instances and it will include this class as needed.
